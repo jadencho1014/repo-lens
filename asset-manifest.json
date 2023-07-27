@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/repo-lens/static/css/main.3be471a5.css",
+    "main.js": "/repo-lens/static/js/main.3afd1ced.js",
+    "index.html": "/repo-lens/index.html",
+    "main.3be471a5.css.map": "/repo-lens/static/css/main.3be471a5.css.map",
+    "main.3afd1ced.js.map": "/repo-lens/static/js/main.3afd1ced.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3be471a5.css",
+    "static/js/main.3afd1ced.js"
+  ]
+}
